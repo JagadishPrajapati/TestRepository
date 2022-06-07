@@ -1,0 +1,9 @@
+{
+	"name": "JagdishADFTutorialDataFactory07June2022",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c483aefe-3475-4927-a3b4-b647a3cd714d",
+		"tenantId": "11e86850-ea1c-4256-b52d-a75962ce3aef"
+	}
+}
