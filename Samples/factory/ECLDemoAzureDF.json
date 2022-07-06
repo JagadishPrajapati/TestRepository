@@ -1,0 +1,9 @@
+{
+	"name": "ECLDemoAzureDF",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bb4aa3a-461d-4cdf-801f-650c3f4eb8ec",
+		"tenantId": "11e86850-ea1c-4256-b52d-a75962ce3aef"
+	}
+}
